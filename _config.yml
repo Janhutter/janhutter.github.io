@@ -27,7 +27,6 @@ url: "https://janhutter.github.io/CV"
 
 github:
   username: Janhutter # change to your GitHub username
-  icon: /assets/img/favicon/fa-github.ico
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -150,7 +149,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://Janhutter.github.io/CV"
 
 # ------------ The following options are not recommended to be modified ------------------
 
