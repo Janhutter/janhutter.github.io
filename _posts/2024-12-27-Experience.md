@@ -12,7 +12,7 @@ media_subpath: '/assets/img/favicons/'
 #   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
 #   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
-
+### Work Experience
 <ul>
   <li>
     <strong>Student Research Assistant</strong><br>
@@ -26,7 +26,8 @@ media_subpath: '/assets/img/favicons/'
     to introduce AI aspects into 
     <a href="https://woogle.wooverheid.nl/" target="_blank" rel="noopener noreferrer">WooGLe</a></b>
     </span><br>
-    Including an improved dense transformer-based retrieval system, and a retrieval augmented chatbot.
+    Including an improved dense transformer-based retrieval system, and a retrieval augmented chatbot. <br>
+    More about WooGLe <a href="https://janhutter.github.io/CV/posts/WooGLe/" target="_blank" rel="noopener noreferrer">here</a>
   </li>
   <br>
   <br>
