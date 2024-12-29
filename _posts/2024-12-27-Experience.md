@@ -27,7 +27,7 @@ media_subpath: '/assets/img/favicons/'
     <a href="https://woogle.wooverheid.nl/" target="_blank" rel="noopener noreferrer">WooGLe</a></b>
     </span><br>
     Including an improved dense transformer-based retrieval system, and a retrieval augmented chatbot. <br>
-    More about WooGLe <a href="/posts/WooGLe/">here</a>.
+    More about WooGLe <a href="/CV/posts/WooGLe/">here</a>.
   </li>
   <br>
   <br>
