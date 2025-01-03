@@ -34,7 +34,7 @@ media_subpath: '/assets/img/favicons/'
   <li>
     <strong>Teaching Assistant</strong><br>
     <span class="university-name">University of Amsterdam</span><br>
-    <i class="fa-regular fa-calendar" class="icon-size"></i><span> October 2022 - August 2024</span><br>
+    <i class="fa-regular fa-calendar"></i><span> October 2022 - August 2024</span><br>
     <br>
     <b>During this time, I developed my teaching skills, including strategies for engaging students, tailoring lessons to many different subfields of Artificial Intelligence and fostering a healty   
     classroom environment!</b><br>
@@ -56,7 +56,7 @@ media_subpath: '/assets/img/favicons/'
   <br>
   <li>
     <strong>BSc. Kunstmatige Intelligentie</strong><br>
-    <img src="calender.svg" alt="Calendar" class="icon-size"><span> September 2021 - August 2024</span><br>
+    <i class="fa-regular fa-calendar" class="icon-size"></i><span> September 2021 - August 2024</span><br>
     <br>
     <b>Thesis: 'Lost but not only in the Middle: Positional Bias in Retrieval Augmented Generation'</b><br>
     Supervisors: <a href="https://www.linkedin.com/in/davidmrau/" target="_blank" rel="noopener noreferrer">David Rau</a> and <a href="https://www.uva.nl/profiel/k/a/j.kamps/j.kamps.html" target="_blank" rel="noopener noreferrer">Jaap Kamps</a>. <br>
@@ -70,10 +70,5 @@ media_subpath: '/assets/img/favicons/'
 <style>
   .university-name {
     color: rgb(30, 107, 184);
-  }
-  .icon-size {
-    width: 1.75rem;
-    height: 1.75rem;
-    color: var(--sidebar-btn-color);
   }
 </style>
