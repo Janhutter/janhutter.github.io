@@ -17,7 +17,7 @@ media_subpath: '/assets/img/favicons/'
   <li>
     <strong>Student Research Assistant</strong><br>
     <span class="university-name">University of Amsterdam</span><br>
-    <img src="calender.svg" alt="Calendar" class="icon-size"><span> August 2024 - Ongoing</span><br>
+    <i class="fa-regular fa-calendar"></i><span> August 2024 - Ongoing</span><br>
     <br>
     <span><b>Working under 
     <a href="https://www.uva.nl/en/profile/m/a/m.j.marx/m.j.marx.html" target="_blank" rel="noopener noreferrer">Maarten Marx</a>
@@ -34,7 +34,7 @@ media_subpath: '/assets/img/favicons/'
   <li>
     <strong>Teaching Assistant</strong><br>
     <span class="university-name">University of Amsterdam</span><br>
-    <img src="calender.svg" alt="Calendar" class="icon-size"><span> October 2022 - August 2024</span><br>
+    <i class="fa-regular fa-calendar" class="icon-size"></i><span> October 2022 - August 2024</span><br>
     <br>
     <b>During this time, I developed my teaching skills, including strategies for engaging students, tailoring lessons to many different subfields of Artificial Intelligence and fostering a healty   
     classroom environment!</b><br>
@@ -50,7 +50,7 @@ media_subpath: '/assets/img/favicons/'
 <ul>
   <li>
     <strong>Msc. Artificial Intelligence</strong><br>
-    <img src="calender.svg" alt="Calendar" class="icon-size"><span> September 2024 - Ongoing</span><br>
+    <i class="fa-regular fa-calendar" class="icon-size"></i><span> September 2024 - Ongoing</span><br>
   </li>
   <br>
   <br>
@@ -72,7 +72,8 @@ media_subpath: '/assets/img/favicons/'
     color: rgb(30, 107, 184);
   }
   .icon-size {
-    width: 15px; 
-    height: 15px; 
+    width: 1.75rem;
+    height: 1.75rem;
+    color: var(--sidebar-btn-color);
   }
 </style>
