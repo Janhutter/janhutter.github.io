@@ -50,13 +50,13 @@ media_subpath: '/assets/img/favicons/'
 <ul>
   <li>
     <strong>Msc. Artificial Intelligence</strong><br>
-    <i class="fa-regular fa-calendar" class="icon-size"></i><span> September 2024 - Ongoing</span><br>
+    <i class="fa-regular fa-calendar"></i><span> September 2024 - Ongoing</span><br>
   </li>
   <br>
   <br>
   <li>
     <strong>BSc. Kunstmatige Intelligentie</strong><br>
-    <i class="fa-regular fa-calendar" class="icon-size"></i><span> September 2021 - August 2024</span><br>
+    <i class="fa-regular fa-calendar"></i><span> September 2021 - August 2024</span><br>
     <br>
     <b>Thesis: 'Lost but not only in the Middle: Positional Bias in Retrieval Augmented Generation'</b><br>
     Supervisors: <a href="https://www.linkedin.com/in/davidmrau/" target="_blank" rel="noopener noreferrer">David Rau</a> and <a href="https://www.uva.nl/profiel/k/a/j.kamps/j.kamps.html" target="_blank" rel="noopener noreferrer">Jaap Kamps</a>. <br>
