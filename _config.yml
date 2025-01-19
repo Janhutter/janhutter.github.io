@@ -115,11 +115,11 @@ comments:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: Janhutter/CV
+    repo: Janhutter/janhutter.github.io
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: Janhutter/CV
+    repo: Janhutter/janhutter.github.io
     repo_id:
     category:
     category_id:
@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/CV"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
