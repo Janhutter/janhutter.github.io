@@ -51,6 +51,7 @@ media_subpath: '/assets/img/favicons/'
   <li>
     <strong>Msc. Artificial Intelligence</strong><br>
     <i class="fa-regular fa-calendar"></i><span> September 2024 - Ongoing</span><br>
+    Electives include: Foundation Models, Deep Learning 2, Recommender Systems
   </li>
   <br>
   <br>
