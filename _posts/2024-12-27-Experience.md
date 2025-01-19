@@ -1,7 +1,7 @@
 ---
 title: Experience
 description: >-
-  Work at the University of Amsterdam and my publications.
+  Work at the University of Amsterdam and my education.
 
 date: 2024-12-27
 categories: [Experience, Publications]
