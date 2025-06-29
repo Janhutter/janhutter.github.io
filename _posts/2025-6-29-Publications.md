@@ -15,4 +15,6 @@ image: 'google_scholar.png'
 ---
 
 ### Information Retrieval
-- [**Lost but Not Only in the Middle: Positional Bias in Retrieval Augmented Generation**](https://link.springer.com/chapter/10.1007/978-3-031-88708-6_16)
+- [**Lost but Not Only in the Middle: Positional Bias in Retrieval Augmented Generation**](https://link.springer.com/chapter/10.1007/978-3-031-88708-6_16) \
+  A systematic analysis of positional bias in RAG, showing that the position of retrieved documents significantly impacts the quality of generated responses. \
+  *Part of the proceedings of the 47th European Conference on Information Retrieval (ECIR 2025)*
