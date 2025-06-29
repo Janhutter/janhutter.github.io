@@ -52,7 +52,9 @@ toc: true
   <li>
     <strong>Msc. Artificial Intelligence</strong><br>
     <i class="fa-regular fa-calendar"></i><span> September 2024 - Ongoing</span><br>
-    Electives include: Foundation Models, Deep Learning 2, Recommender Systems
+    Electives include: Foundation Models, Deep Learning 2, Recommender Systems, Machine Learning 2, Information Theory, and Information Retrieval 2.<br>
+    <br>
+    I participated in the <a href="https://ivi.fnwi.uva.nl/ellis/funding/ellis-msc-honours-programme/" target="_blank" rel="noopener noreferrer"><strong>ELLIS MSc Honours Programme</strong></a>.<br>
   </li>
   <br>
   <br>
