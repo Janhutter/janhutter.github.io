@@ -16,9 +16,17 @@ toc: true
 ### Work Experience
 <ul>
   <li>
+    <strong>Teaching Assistant</strong><br>
+    <span class="university-name">University of Amsterdam</span><br>
+    <i class="fa-regular fa-calendar"></i><span> September 2025 - June 2026</span><br>
+    <b> Courses include:</b> Natural Language Processing, Language theory and Language Processing, ML Operations, and 2nd Year Bachelor Project<br>
+  </li>
+  <br>
+  <br>
+  <li>
     <strong>Student Research Assistant</strong><br>
     <span class="university-name">University of Amsterdam</span><br>
-    <i class="fa-regular fa-calendar"></i><span> August 2024 - Ongoing</span><br>
+    <i class="fa-regular fa-calendar"></i><span> August 2024 - June 2025</span><br>
     <br>
     <span><b>Working under 
     <a href="https://www.uva.nl/en/profile/m/a/m.j.marx/m.j.marx.html" target="_blank" rel="noopener noreferrer">Maarten Marx</a>
