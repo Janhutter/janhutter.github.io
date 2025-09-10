@@ -24,6 +24,13 @@ image: 'google_scholar.png'
 During my Master's at the University of Amsterdam, I have contributed to 3 papers that were part of course projects. Each of these were publication ready, but were not submitted to any conferences or journals.
 - [**Rep2D-BEAT: Evaluating and Enhancing Spatial Understanding in
 Vision-Language Models**]({{ site.baseurl }}/other_papers/foundation_models_course.pdf)
+A comprehensive evaluation of vision-language models' spatial reasoning abilities, introducing the Rep2D-BEAT benchmark and proposing methods to enhance spatial understanding. We continued the work done by [Liu et al. (2024)](https://arxiv.org/abs/2408.00754), where we used the replica 3D room scans to generate multiple 2D images from different angles and distances, and created a new benchmark focusing on spatial reasoning. \
+Supervised by [Samuele Papa](https://samuelepapa.github.io/)
+
 - [**[RE] Are Your Models Still Fair? Fairness Attacks on Graph
 Neural Networks via Node Injections**]({{ site.baseurl }}/other_papers/fact_course.pdf)
+This was a replicability study of the paper [Luo et al. (2024)](https://arxiv.org/abs/2406.03052), where we achieved state-of-the art fairness attack performance on graph neural networks by improving the poisoning of the training graph. \
+Supervised by Jesse Wonnink
+
 - [**TET: Introducing Energy To Test-Time Training**]({{ site.baseurl }}/other_papers/DL2_course.pdf)
+This paper introduces TET, adding a pretraining phase to [Test-Time Energy Adaptation (TEA)](https://openaccess.thecvf.com/content/CVPR2024/html/Yuan_TEA_Test-time_Energy_Adaptation_CVPR_2024_paper.html) imitating the [Test-Time Training (TTT)](https://proceedings.mlr.press/v119/sun20b.html) paradigm more closely. 
