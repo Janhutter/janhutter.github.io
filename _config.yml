@@ -16,7 +16,7 @@ timezone: Europe/Amsterdam
 
 title: Jan Hutter # the main title
 
-tagline: Student & Research assistant at UvA # it will display as the subtitle
+tagline: Student & Student assistant at UvA # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Personal Website for Jan Hutter.
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Jan Hutter
-  email: j.w.j.hutter@uva.nl # change to your email address
+  email: jan.hutter@student.uva.nl # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
